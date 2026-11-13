@@ -49,7 +49,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Moksha's Student Management System</h1>
+      <h1>Balaji's Student Management System</h1>
 
       <p>Click the button to fetch student details from an API.</p>
 
